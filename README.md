@@ -29,7 +29,8 @@ also, port to ScalaJS
 
 - build a web crawler with Go (focussing on its abilities for parallel computing). For ex. give me info on my favourite bars, 
 crawl different web site formats with different extractors, eventually persist to db, connect a flask app to crank up a simple
-website, have it running in a docker container (just dropping known keywords here)
+website, have it running in two docker container (just dropping known keywords here). Flask web app would communicate 
+with go app over simple rest api. 
 
 
 ## Tech List
