@@ -38,15 +38,15 @@ website, have it running in a docker container (just dropping known keywords her
 - [Haskell](https://www.haskell.org/)
 - [ReactNative](http://facebook.github.io/react-native/)
 - [GraphQL](http://graphql.org/learn/)
-- [Kotlin](https://kotlinlang.org/)
-- [Vavr](http://www.vavr.io/)
-- [Flask](http://flask.pocoo.org/)
-- [RxJava](https://github.com/ReactiveX/RxJava)
-- [RxScala](http://reactivex.io/rxscala/)
-- [Scala.Rx](https://github.com/lihaoyi/scala.rx)
-- [Scala.js](https://www.scala-js.org/)
-- [Jigsaw](http://openjdk.java.net/projects/jigsaw/)
-- [Redis](https://redis.io/)
-- [Docker](https://www.docker.com/)
-- [Raspberry Pi](https://www.raspberrypi.org/)
-- [Spring](https://spring.io/)
+- [Kotlin](https://kotlinlang.org/ "woohoo!") a Scala-like language targeting the JVM, Android, JavaScript or even native binaries (!) with out-of-the-box support from IntelliJ
+- [Vavr](http://www.vavr.io/) a library to provide Scala features for Java
+- [Flask](http://flask.pocoo.org/) a microframework for web development with Python
+- [RxJava](https://github.com/ReactiveX/RxJava) a reactive library that brings ReactiveX to Java
+- [RxScala](http://reactivex.io/rxscala/) a reactive library that brings ReactiveX to Scala 
+- [Scala.Rx](https://github.com/lihaoyi/scala.rx) another reactive library for Scala (by Li Haoyi)
+- [Scala.js](https://www.scala-js.org/) Scala in the browser - we know and love it
+- [Jigsaw](http://openjdk.java.net/projects/jigsaw/) Java's brand new module system
+- [Redis](https://redis.io/) a fast in-memory database
+- [Docker](https://www.docker.com/) something hyped with containers instead of VMs
+- [Raspberry Pi](https://www.raspberrypi.org/) a small and cheap computer
+- [Spring](https://spring.io/) hic sunt leones
