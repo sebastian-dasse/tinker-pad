@@ -3,6 +3,7 @@ A place to collect some ideas for a collaborative software project, from mildly 
 
 ## Project Ideas
 Maglomaniac:
+	
 	- modernize "Plan The Jam" (but not now): we could use the standard backend first and then set up a react native interface and
 	focus on frontend development. we could use redux and graph api to throw in new technologies. 
 	 nice could be to implement pure LSD ideas, an interface that is just completely crazy
@@ -17,6 +18,7 @@ Maglomaniac:
 	- maglomaniac to the max: form a cult to completely work through all books of knuths "the art of computer programming" 
 
 Less crazy:
+
 	- implement some standard algorithms in a well-known/new/dreaded/loved/hyped programming language:
 	standard sorting algorithms to get started, like a self made cookbook then:
 	focus on graph algorithms: implement depth-first search which should find the shortest path in a maze.
