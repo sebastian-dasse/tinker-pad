@@ -4,9 +4,10 @@ A place to collect some ideas for a collaborative software project, from mildly 
 ## Project Ideas
 Maglomaniac:
 	
-	- modernize "Plan The Jam" (but not now): we could use the standard backend first and then set up a react native interface and
-	focus on frontend development. we could use redux and graph api to throw in new technologies. 
-	 nice could be to implement pure LSD ideas, an interface that is just completely crazy
+	- modernize "Plan The Jam" (but not now): we could use the standard backend first and then set up
+        a react native interface and focus on frontend development. we could use redux and graph api to throw 
+        in new technologies. 
+        nice could be to implement pure LSD ideas, an interface that is just completely crazy
 	and flashy. my vision for a band management system would be that besides finding dates one could even manage
 	jam recordings, etc which brings me to a new idea:
 
@@ -26,9 +27,9 @@ Less crazy:
 	we could try to make those monster chase the hell out of pacman: https://github.com/simonlischka/dsl_pacman
 	also, port to ScalaJS 
 
-	- build a web crawler with Go (focussing on its abilities for parallel computing). For ex. give me info on my favourite bars, crawl different web site formats 
-	with different extractors, eventually persist to db, connect a flask app to crank up a simple website, have it running in a docker container
-	(just dropping known keywords here)
+	- build a web crawler with Go (focussing on its abilities for parallel computing). For ex. give me info on my favourite bars, 
+        crawl different web site formats with different extractors, eventually persist to db, connect a flask app to crank up a simple
+        website, have it running in a docker container (just dropping known keywords here)
 
 
 ## Tech List
