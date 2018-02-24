@@ -16,6 +16,7 @@ new ideas can be recorded at home - find some way to make the whole composing by
 the "dude what did we play last time, where was the cool part in the recording" thing. 
 
 - maglomaniac to the max: form a cult to completely work through all books of knuths "the art of computer programming" 
+(may take 40 years to complete)
 
 Less crazy:
 
