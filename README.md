@@ -5,7 +5,7 @@ A place to collect some ideas for a collaborative software project, from mildly 
 Maglomaniac:
 	
 - modernize "Plan The Jam" (but not now): we could use the standard backend first and then set up
-a react native interface and focus on frontend development. we could use redux and graph api to throw 
+a react native interface and focus on frontend development. we could use redux and graph ql to throw 
 in new technologies. nice could be to implement pure LSD ideas, an interface that is just completely crazy
 and flashy. my vision for a band management system would be that besides finding dates one could even manage
 jam recordings, etc which brings me to a new idea:
@@ -36,6 +36,7 @@ website, have it running in a docker container (just dropping known keywords her
 - [Clojure](https://clojure.org/)
 - [Haskell](https://www.haskell.org/)
 - [ReactNative](http://facebook.github.io/react-native/)
+- [GraphQL](http://graphql.org/learn/)
 - [Kotlin](https://kotlinlang.org/)
 - [Vavr](http://www.vavr.io/)
 - [Flask](http://flask.pocoo.org/)
