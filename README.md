@@ -31,7 +31,7 @@ also, port to ScalaJS
 crawl different web site formats with different extractors, eventually persist to db, connect a flask app to crank up a simple
 website, have it running in two docker container (just dropping known keywords here). Flask web app would communicate
 with go app over simple rest api.
-Or we can just write the whole thing in Haskell! Looks so pretty!
+Or we can just write the whole thing in Haskell! Looks so pretty and misterious (look at this code from some random github repo: https://github.com/input-output-hk/cardano-sl/blob/develop/auxx/src/Mode.hs)!
 
 ## Tech List
 - [GoLang](https://golang.org/) Cish looking backend language with great focus on parallel computing
