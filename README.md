@@ -34,11 +34,11 @@ with go app over simple rest api.
 Or we can just write the whole thing in Haskell! Looks so pretty!
 
 ## Tech List
-- [GoLang](https://golang.org/) Cish looking backend language with great focus on parallel computing.
-- [Clojure](https://clojure.org/) LISP like language on the JVM, for fans of round brackets. Definately a new way of thinking.
+- [GoLang](https://golang.org/) Cish looking backend language with great focus on parallel computing
+- [Clojure](https://clojure.org/) LISP like language on the JVM, for fans of round brackets. Definately a new way of thinking
 - [Haskell](https://www.haskell.org/) The grandmaster of functional programming
-- [ReactNative](http://facebook.github.io/react-native/) React that compiles to all Android/iOS and makes it relatively easy to write.
-- [GraphQL](http://graphql.org/learn/) A magic REST query language, that allows to drop a JSON like Facebook object that gets filled with data.
+- [ReactNative](http://facebook.github.io/react-native/) React that compiles to all Android/iOS and makes it relatively easy to write
+- [GraphQL](http://graphql.org/learn/) A magic REST query language, that allows to drop a JSON like Facebook object that gets filled with data
 - [Kotlin](https://kotlinlang.org/ "woohoo!") a Scala-like language targeting the JVM, Android, JavaScript or even native binaries (!) with out-of-the-box support from IntelliJ
 - [Vavr](http://www.vavr.io/) a library to provide Scala features for Java
 - [Flask](http://flask.pocoo.org/) a microframework for web development with Python
